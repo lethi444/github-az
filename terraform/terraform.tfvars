@@ -1,3 +1,3 @@
 rgname   = "github-action"
 location = "East US"
-sname    = "12qaz0plm"
+sname    = "1wsx0okm"
